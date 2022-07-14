@@ -1,0 +1,6 @@
+com\example\demo\controller\Service1Controller.class
+com\example\demo\exception\GenericExceptionHandler.class
+com\example\demo\model\Name.class
+com\example\demo\Task2Application.class
+com\example\demo\controller\Service2Controller.class
+com\example\demo\controller\Service3Controller.class
